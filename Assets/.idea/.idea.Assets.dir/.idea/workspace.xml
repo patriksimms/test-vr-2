@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b00b855d-d4f9-4ce8-9420-6c5059bfae55" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Assets.dir/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/APIUpdater/project-dependencies.graph" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/APIUpdater/project-dependencies.graph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/AnnotationManager" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/AnnotationManager" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/AssetImportState" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/AssetImportState" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/BuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/BuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/LastBuild.buildreport" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/MonoManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/MonoManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/CHANGELOG.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/ArmModels.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/ArmModels/ArmModelEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/ArmModels/ArmModelEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/ArmModels/SwingArmModelEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/ArmModels/SwingArmModelEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/ArmModels/TransitionArmModelEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/ArmModels/TransitionArmModelEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/LegacyInputHelpersEditor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/LegacyInputHelpersEditor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/SeedXRInputBindings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/SeedXRInputBindings/SeedXRInputBindings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/SeedXRInputBindings/SeedXRInputBindings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/TrackedPoseDriver.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/TrackedPoseDriver/TPDConfigurationProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/TrackedPoseDriver/TPDConfigurationProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/TrackedPoseDriver/TrackedPoseDriverEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/TrackedPoseDriver/TrackedPoseDriverEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/TrackedPoseDriver/UnityEditor.SpatialTracking.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Editor/TrackedPoseDriver/UnityEditor.SpatialTracking.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/LICENSE.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/README.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/ArmModels.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/ArmModels/ArmModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/ArmModels/ArmModel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/ArmModels/SwingArmModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/ArmModels/SwingArmModel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/ArmModels/TransitionArmModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/ArmModels/TransitionArmModel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/LegacyInputHelpers.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/LegacyInputHelpers.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/TrackedPoseDriver.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/TrackedPoseDriver/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/TrackedPoseDriver/AssemblyInfo.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/TrackedPoseDriver/BasePoseProvider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/TrackedPoseDriver/BasePoseProvider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/TrackedPoseDriver/TrackedPoseDriver.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/TrackedPoseDriver/TrackedPoseDriver.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/TrackedPoseDriver/UnityEngine.SpatialTracking.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Runtime/TrackedPoseDriver/UnityEngine.SpatialTracking.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Tests.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Tests/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Tests/Editor/LegacyInputHelpersEditorTests.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Tests/Editor/LegacyInputHelpersEditorTests.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Tests/Editor/SeedXRInputBindings.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Tests/Editor/SeedXRInputBindings/SeedXRInputBindingsTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Tests/Editor/SeedXRInputBindings/SeedXRInputBindingsTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Tests/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Tests/Runtime/TrackedPoseDriver.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Tests/Runtime/TrackedPoseDriver/TrackedPoseDriverTests.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Tests/Runtime/TrackedPoseDriver/TrackedPoseDriverTests.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Tests/Runtime/TrackedPoseDriver/UnityEngine.SpatialTracking.Tests.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Tests/Runtime/TrackedPoseDriver/UnityEngine.SpatialTracking.Tests.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Third Party Notices.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/Third Party Notices.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/PackageCache/com.unity.xr.legacyinputhelpers@1.3.8/package.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.005.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.InternalAPIEditorBridge.005.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.Rider.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.Rider.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.Rider.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.Rider.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.Subsystem.Registration.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.Subsystem.Registration.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.TextMeshPro.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.TextMeshPro.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.Timeline.Editor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.Timeline.Editor.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.Timeline.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.Timeline.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.VSCode.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.VSCode.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARFoundation.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARFoundation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARFoundation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARFoundation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARFoundation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARKit.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARKit.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARKit.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARKit.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARKit.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARSubsystems.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARSubsystems.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.SpatialTracking.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.SpatialTracking.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.TestRunner.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.TestRunner.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.UI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.UI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.SpatialTracking.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.SpatialTracking.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.UI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.UI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ScriptMapper" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ScriptMapper" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/SpriteAtlasDatabase.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/SpriteAtlasDatabase.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler3.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler4.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler5.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler6.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler6.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler7.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler7.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler8.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Library/shadercompiler-UnityShaderCompiler8.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PlacementIndicator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/UnityARProject/Assets/PlacementIndicator/PlacementIndicator.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PlacementIndicator.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yc2Vy4IXHDi7OJXxqlKhBkCOp0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b00b855d-d4f9-4ce8-9420-6c5059bfae55" name="Default Changelist" comment="" />
+      <created>1583227590267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583227590267</updated>
+      <workItem from="1583227593677" duration="800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
